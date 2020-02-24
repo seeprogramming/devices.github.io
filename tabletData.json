@@ -1,0 +1,32 @@
+[
+    {
+        "tname" : "Apple iPad 10.2",
+        "timage1" : "https://www.91-img.com/pictures/135877-v3-apple-ipad-10.2-tablet-large-1.jpg",
+         "badge" : false
+    },
+    {
+        "tname" : "Apple iPad Air 2019",
+        "timage1" : "https://www.91-img.com/pictures/133330-v3-apple-ipad-air-2019-tablet-large-1.jpg",
+        "badge" : false
+    },
+    {
+        "tname" : "Apple iPad 2018 Wi-Fi",
+        "timage1" : "https://www.91-img.com/pictures/126355-v1-apple-ipad-2018-wifi-32gb-tablet-large-1.jpg",
+        "badge" : false
+    },
+    {
+        "tname" : "Apple iPad mini 2019",
+        "timage1" : "https://www.91-img.com/pictures/133331-v4-apple-ipad-mini-2019-tablet-large-1.jpg",
+        "badge" : true
+    },
+    {
+        "tname" : "Apple iPad Pro 11",
+        "timage1" : "https://www.91-img.com/pictures/130951-v9-apple-ipad-pro-11-wifi-64gb-tablet-large-1.jpg",
+        "badge" : true
+    },
+    {
+        "tname" : "Apple iPad Pro 10.5",
+        "timage1" : "https://www.91-img.com/pictures/apple-ipad-pro-10.5-2017-wifi-cellular-512gb-tablet-large-1.jpg",
+        "badge" : false
+    }
+]

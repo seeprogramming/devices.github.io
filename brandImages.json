@@ -1,0 +1,51 @@
+[
+    {
+        "id": "oneplus",
+        "src":  "https://cdn.worldvectorlogo.com/logos/oneplus-2.svg"
+    },
+    {
+        "id": "apple",
+        "src":  "https://cdn.worldvectorlogo.com/logos/apple.svg"
+    },
+    {
+        "id": "samsung",
+        "src":  "https://cdn.worldvectorlogo.com/logos/samsung-1.svg"
+    },
+    {
+        "id": "nokia",
+        "src":  "https://cdn.worldvectorlogo.com/logos/nokia-3.svg"
+    },
+    {
+        "id": "huawei",
+        "src":  "https://cdn.worldvectorlogo.com/logos/huawei.svg"
+    },
+    {
+        "id": "razer",
+        "src":  "https://cdn.worldvectorlogo.com/logos/razer-1.svg"
+    },
+    {
+        "id": "xiomi",
+        "src":  "https://cdn.worldvectorlogo.com/logos/xiaomi.svg"
+    },
+    {
+        "id": "zte",
+        "src":  "https://cdn.worldvectorlogo.com/logos/zte-logo.svg"
+    },
+    {
+        "id": "lg",
+        "src":  "https://cdn.worldvectorlogo.com/logos/lg-1.svg"
+    },
+    {
+        "id": "lenovo",
+        "src":  "https://cdn.worldvectorlogo.com/logos/lenovo-2.svg"
+    },
+    {
+        "id": "oppo",
+        "src":  "https://cdn.worldvectorlogo.com/logos/oppo-logo-2019.svg"
+    },
+    {
+        "id": "vivo",
+        "src":  "https://cdn.worldvectorlogo.com/logos/vivo-2.svg"
+    }
+]
+

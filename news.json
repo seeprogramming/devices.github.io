@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "news_title": "News 1",
+        "news_excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eligendi animi dolores dolor, laudantium obcaecati...",
+        "date" : "20th July 2019",
+        "news_outer_image": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+       
+    },
+    {
+        "id": 2,
+        "news_title": "News 2",
+        "news_excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eligendi animi dolores dolor, laudantium obcaecati...",
+        "date" : "26th July 2019",
+        "news_outer_image": "https://images.pexels.com/photos/38629/stock-iphone-business-mobile-38629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      
+    },
+    {
+        "id": 3,
+        "news_title": "News 3",
+        "news_excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eligendi animi dolores dolor, laudantium obcaecati...",
+        "date" : "25th July 2019",
+        "news_outer_image": "https://images.pexels.com/photos/46924/pexels-photo-46924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+    },
+    {
+        "id": 4,
+        "news_title": "News 4",
+        "news_excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eligendi animi dolores dolor, laudantium obcaecati...",
+        "date" : "25th July 2019",
+        "news_outer_image": "https://images.pexels.com/photos/35177/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+    },
+    {
+        "id": 5,
+        "news_title": "News 5",
+        "news_excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eligendi animi dolores dolor, laudantium obcaecati...",
+        "date" : "25th July 2019",
+        "news_outer_image": "https://images.pexels.com/photos/39592/mobile-phone-samsung-music-39592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+    }
+
+]
