@@ -23,7 +23,7 @@
                 "reactjs": 36
             }
         ],
-        "avatar" : ""      
+        "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_sagar_shelke.JPG"      
     },
     {
         "id" : 1,
@@ -48,7 +48,9 @@
                 "javascript": 65,
                 "reactjs": 36
             }
-        ]      
+        ],
+        
+        "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_shubham_hajare.jpeg"
     },
     {
         "id" : 1,
@@ -73,7 +75,8 @@
                 "javascript": 65,
                 "reactjs": 36
             }
-        ]      
+        ],
+        "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_abhishek_khapekar.jpeg"      
     },
     {
         "id" : 1,
@@ -98,7 +101,8 @@
                 "javascript": 65,
                 "reactjs": 36
             }
-        ]      
+        ],
+        "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_abhishek_khapekar.jpeg"      
     }
 
 ]
