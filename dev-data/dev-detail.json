@@ -1,0 +1,104 @@
+[
+    {
+        "id" : 1,
+        "name": "Sagar Shelke",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ],
+        "avatar" : ""      
+    },
+    {
+        "id" : 1,
+        "name": "Shubham Hajare",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ]      
+    },
+    {
+        "id" : 1,
+        "name": "Abhishek Khapekar",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ]      
+    },
+    {
+        "id" : 1,
+        "name": "Nikhil Gade",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ]      
+    }
+
+]
