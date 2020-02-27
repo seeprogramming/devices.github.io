@@ -26,7 +26,7 @@
         "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_sagar_shelke.JPG"      
     },
     {
-        "id" : 1,
+        "id" : 2,
         "name": "Shubham Hajare",
         "designation": "Front-End Developer",
         "profile_status": "Growing through life",
@@ -53,7 +53,7 @@
         "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_shubham_hajare.jpeg"
     },
     {
-        "id" : 1,
+        "id" : 3,
         "name": "Abhishek Khapekar",
         "designation": "Front-End Developer",
         "profile_status": "Growing through life",
@@ -79,7 +79,7 @@
         "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_abhishek_khapekar.jpeg"      
     },
     {
-        "id" : 5,
+        "id" : 4,
         "name": "Nagesh Madanwad",
         "designation": "Front-End Developer",
         "profile_status": "Growing through life",
@@ -103,7 +103,61 @@
             }
         ],
         "avatar" : ""      
+    },
+    {
+        "id" : 4,
+        "name": "Saurabh Bhogade",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ],
+        "avatar" : ""      
+    },
+    {
+        "id" : 4,
+        "name": "Nikhil Gade",
+        "designation": "Front-End Developer",
+        "profile_status": "Growing through life",
+        "social_connect": [
+            {
+                "github": "hi",
+                "linkedin": "hi",
+                "medium": "hi",
+                "instagram": "gi",
+                "twitter": "hi",
+                "facebook": "hi"
+            }
+        ],
+        "know_me": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid harum temporibus veniam, doloremque vitae corrupti sint voluptatem praesentium, nam veritatis cum dolores? Reiciendis dolor adipisci error consequatur recusandae ea odio ex dolorem reprehenderit, aliquam vel deserunt asperiores nesciunt non nam modi obcaecati quo earum? Voluptates cupiditate blanditiis et! Deleniti, quaerat.",
+        "my_tech_stack": [
+            {
+                "html": 75,
+                "css": 70,
+                "javascript": 65,
+                "reactjs": 36
+            }
+        ],
+        "avatar" : ""      
     }
+
+
     
 
 ]
