@@ -28,7 +28,7 @@
     {
         "id" : 2,
         "name": "Shubham Hajare",
-        "designation": "Front-End Developer",
+        "designation": "Salesforce Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -55,7 +55,7 @@
     {
         "id" : 3,
         "name": "Abhishek Khapekar",
-        "designation": "Front-End Developer",
+        "designation": ".NET Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -81,7 +81,7 @@
     {
         "id" : 4,
         "name": "Nagesh Madanwad",
-        "designation": "Front-End Developer",
+        "designation": "Java Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -105,9 +105,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 5,
         "name": "Saurabh Bhogade",
-        "designation": "Front-End Developer",
+        "designation": "Automation Testing",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -131,7 +131,7 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 6,
         "name": "Nikhil Gade",
         "designation": "Front-End Developer",
         "profile_status": "Growing through life",
@@ -157,9 +157,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 7,
         "name": "Anup Patil",
-        "designation": "Front-End Developer",
+        "designation": "Ruby Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -183,9 +183,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 8,
         "name": "Chetan Shelake",
-        "designation": "Front-End Developer",
+        "designation": "React-Native Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -209,9 +209,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 9,
         "name": "Ravindra Patil",
-        "designation": "Front-End Developer",
+        "designation": "Java Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -235,9 +235,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 10,
         "name": "Rasul Sayyad",
-        "designation": "Front-End Developer",
+        "designation": "ReactJS Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
@@ -261,9 +261,9 @@
         "avatar" : ""      
     },
     {
-        "id" : 4,
+        "id" : 11,
         "name": "Prashant Tivhale",
-        "designation": "Front-End Developer",
+        "designation": "Java Developer",
         "profile_status": "Growing through life",
         "social_connect": [
             {
