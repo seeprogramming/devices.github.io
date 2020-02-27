@@ -79,8 +79,8 @@
         "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_abhishek_khapekar.jpeg"      
     },
     {
-        "id" : 1,
-        "name": "Nikhil Gade",
+        "id" : 5,
+        "name": "Nagesh Madanwad",
         "designation": "Front-End Developer",
         "profile_status": "Growing through life",
         "social_connect": [
@@ -104,5 +104,6 @@
         ],
         "avatar" : "https://seeprogramming.github.io/devices.github.io/dev-data/dev-profiles/dev_abhishek_khapekar.jpeg"      
     }
+    
 
 ]
